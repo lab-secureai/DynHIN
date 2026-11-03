@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "DynHIN: code and per-seed results for dynamic heterogeneous behavior graph learning for cross-architecture IoT malware detection"
+type: software
+license: MIT
+authors:
+  - family-names: Tran
+    given-names: Dac-Tot
+    orcid: "https://orcid.org/0000-0002-3392-9794"
+  - family-names: Tran
+    given-names: Anh-Tu
+    orcid: "https://orcid.org/0000-0002-8403-865X"
+  - family-names: Nguyen-An
+    given-names: Khuong
+    orcid: "https://orcid.org/0000-0002-9910-6387"
+  - family-names: Luong
+    given-names: The-Dung
+    orcid: "https://orcid.org/0009-0008-9682-7091"
+preferred-citation:
+  type: article
+  title: "Dynamic Heterogeneous Behavior Graph Learning for Cross-Architecture IoT Malware Detection under Strict-Inductive Inference"
+  authors:
+    - family-names: Tran
+      given-names: Dac-Tot
+    - family-names: Tran
+      given-names: Anh-Tu
+    - family-names: Nguyen-An
+      given-names: Khuong
+    - family-names: Luong
+      given-names: The-Dung
+  year: 2026
+  notes: "Manuscript under review."
